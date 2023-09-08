@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html>
-<head>
+
   <div class="flip-card">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img src="https://media.d3.nhle.com/image/private/t_document/prd/eb2li9gxme4fe04gm2ed.jpg" alt="Zach Benson" style="width:400px;height:400px;">
+      <img src="https://media.d3.nhle.com/image/private/t_document/prd/eb2li9gxme4fe04gm2ed.jpg" alt="Zach Benson" style="width:100%x;height:100%;">
     </div>
     <div class="flip-card-back">
     <img
@@ -13,8 +13,5 @@ style="width:400px;height:400px;">
     </div>
   </div>
 </div>
-</head>
-<body>
-</body>
 </html>
 
