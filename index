@@ -4,12 +4,12 @@
   <div class="flip-card">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img src="https://media.d3.nhle.com/image/private/t_document/prd/eb2li9gxme4fe04gm2ed.jpg" alt="Zach Benson" style="width:100%x;height:100%;">
+      <img src="https://media.d3.nhle.com/image/private/t_document/prd/eb2li9gxme4fe04gm2ed.jpg" alt="Zach Benson" style="width:500px;height:500px;">
     </div>
     <div class="flip-card-back">
     <img
 src="https://media.d3.nhle.com/image/private/t_document/prd/zbekcefazasaucaifhg6.jpg" alt="Zach Benson bio"
-style="width:400px;height:400px;">
+style="width:500px;height:500px;">
     </div>
   </div>
 </div>
